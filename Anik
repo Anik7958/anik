@@ -102,7 +102,7 @@ http://10.16.100.207:8082/sports/starsports_select1.m3u8
 http://10.16.100.207:8082/sports/ssselect2.m3u8
 
 
-
-#EXT-X-VERSION:1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://mv.abctv.me/script/vod.php?v=IND_Radhe_movie.mp4&item=Movie
+#EXTINF: -1 tvg-logo="http://images.discoveryftp.net/media/270/Movies/Bangla/2019/Ahaa Re/poster.jpg" group-title="BANGLA MOVIE ZONE", Ahaa Re
+http://?eTFXTnFSVGJhVm5ib3hHYXJGRGJtaFdPT0YyYjVWekxsVlRXbkpuVElsWFRXRjNhR2xGU2xSa041TmpVc3gyZDM4V1NpSjNVWGxUYUVOSFN5Y3pOMzFVYk1CblN4bzNhS0JsZTExbWVRNUdjbUpFYjROM1MwUTJTVzFHYURsa1VUaEdjYWQwYjRWWFk0cGtRd1ZIYlhoWFV5UVhUQ2xGYWFkVFphZGtkNGxVVjBsRGQzNUdWS0ozTmx0a2VDUmxlSlJWVG5WemIxVTNjdmtXVkQxRU1RbGtjcWxGTWpsbFk0NVVXeUlGZHc1V1UzTlhac04wY1dObVN4MDJLclZrTk5KMlFUMUdhd0JqTVBOVWJ2aDBhSU5VVnp0aVpNVnpiWHBHTXZSMEwxRjBhMGdGYXFCblk1OVdkTmQwU2pwMlkxUldUTHRDZGtoRFpCMVRQ
+#EXTINF: -1 tvg-logo="http://images.discoveryftp.net/media/270/Movies/Bangla/2019/Antarale/poster.jpg" group-title="BANGLA MOVIE ZONE", Antarale
+http://?PT1nZHRWamEwMG1XdjVHYXNoMmF4Z25ab2xqVGg5MmIxOFNaMWsxWm41RVM1MWtWeFZuUlpoVVpFWlRieklGYnNkM05ubGtZeU4xVjVNSFJ6aGtNM2N6ZE4xR1R3cFVNc3RtU1FwWFQzQjNOVlZsUm1GVWQwTTNWcnBVUnBWak1aSlRRSUJYUjB0a1ZJOWlhWFpWZXFSemRuWkZUSk5GUndjR1MzMG1OVzltYUZoRE5rZHpZek5UTUtka05ZbEdkNlJUU2hOV2RyQUhkM0lUTzVoV2N3Z1VhdnhHYTFBVldXZG5iemtrUTJnVVE2MVRQ
