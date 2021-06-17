@@ -100,3 +100,9 @@ http://10.16.100.207:8082/sports/starsports2.m3u8
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="Sports",Star Sports Select 2
 http://10.16.100.207:8082/sports/ssselect2.m3u8
+
+
+
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://mv.abctv.me/script/vod.php?v=IND_Radhe_movie.mp4&item=Movie
